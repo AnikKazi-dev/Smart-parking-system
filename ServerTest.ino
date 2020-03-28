@@ -214,16 +214,16 @@ if(ircar1 == 0)
    client.print("<br>");
  
   if(ircar1 == 0) {
-    client.print("<img src=\"D:\\NSU\\11th semester\\CSE 299\\Project Work\\Codes\\ServerTest/car1.png\" width=\"440\" height=\"860\">");
+    client.print("<img src=\"https://i.ibb.co/3sc0JLp/car1.png\" width=\"440\" height=\"860\">");
   } 
 
     if(ircar2 == 0) {
-    client.print("<img src=\"D:\\NSU\\11th semester\\CSE 299\\Project Work\\Codes\\ServerTest/car2.png\" width=\"440\" height=\"860\">");
+    client.print("<img src=\"https://i.ibb.co/LhnvMM4/car2.png\" width=\"440\" height=\"860\">");
   } 
 
 
    if(ircar3 == 0) {
-    client.print("<img src=\"D:\\NSU\\11th semester\\CSE 299\\Project Work\\Codes\\ServerTest/car3.png\" width=\"440\" height=\"860\">");
+    client.print("<img src=\"https://i.ibb.co/THb3WsD/car3.png\" width=\"440\" height=\"860\">");
   }
  client.println("</html>");
  
